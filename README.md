@@ -1,4 +1,4 @@
-# [Explainable AI in Financial Services][https://feedzai.github.io/xai_finance_tutorial/]
+# [Explainable AI in Financial Services](https://feedzai.github.io/xai_finance_tutorial/)
 
 ## Presenters
 
