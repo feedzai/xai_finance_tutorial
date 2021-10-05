@@ -1,5 +1,16 @@
 # [Explainable AI in Financial Services](https://feedzai.github.io/xai_finance_tutorial/)
 
+
+
+## Slides
+
+Slides are available [here](https://docs.google.com/presentation/d/1B1_mDxHP5btkOB-tnk0Cp5HNVjMeCv1IOmeXH9RXTy8/edit?usp=sharing).
+
+
+
+
+
+
 ## Contributors
 
 * Sergio Jesus - Feedzai, DCC-FCUP Universidade do Porto
@@ -9,68 +20,6 @@
 * André Cruz - Feedzai
 * Pedro Saleiro - Feedzai
 * Pedro Bizarro - Feedzai
-
-
-## Slides
-
-Slides are available [here](https://docs.google.com/presentation/d/1B1_mDxHP5btkOB-tnk0Cp5HNVjMeCv1IOmeXH9RXTy8/edit?usp=sharing).
-
-
-## Why this tutorial?
-
-The recent interest in Explainable AI (XAI) is a consequence of the black-box paradigm in AI. This is especially relevant if the ML
-model is integrated into a high-stakes decision system, such as in healthcare, legal, or financial systems. However, there are several
-obstacles to the adoption of explainability methods, namely:
-
-1. The difficulty of evaluating the effectiveness and trustworthiness of these algorithms.
-2. The interpretability of the results.
-3. The parameterization and stochastic nature of the algorithms.
-
-This tutorial serves as a thorough introduction to several concepts of Explainable AI (XAI) both in theory and practice. By addressing real-world
-scenarios in financial services tasks (e.g., fraud prevention), this tutorial provides hands-on knowledge on how to incorporate XAI approaches into ML
-systems.
-
-## What will we cover?
-
-This tutorial will start with general definitions and objectives regarding the Explainable AI (XAI) field. Then we will present existing state-of-the-art explainability methods, their relevancy, differences, and possible applications, given the context of financial services. Finally, we will discuss the objectives for explainability of the different stakeholders involved, focusing on Data Scientists and Humans-in-the-loop, and how to evaluate explanations for a given persona and use-case. With this tutorial, the audience will have a clear understanding of which methods and steps exist and are necessary to integrate XAI in real-world use-cases.
-
-## Pre-Requisites
-- Prior experience with Machine Learning theory.
-- Programming (in Python) - For practical part of tutorial.
-
-## Schedule and Structure
-
-1. What is XAI.
-
-2. XAI in Financial Services.
-
-3. XAI Overview
-    * Transparency and Explainability definitions.
-    * Data Explainers.
-    * In-model Explainers.
-    * Post-model Explainers.
-    * Explanation output.
-    * Explainability methods’ techniques.
-
-4. State-of-the-Art methods deep-dive
-    * Introduction to methods for tabular data.
-    * Adaptation to recurrent scenarios.
-    * Self-explainable models.
-    * Practical tools overview.
-    
-5. Evaluation of Explainability methods
-    * Common desiderata.
-    * Different Personas and information needs.
-    * How to conduct an experiment in XAI.
-    * Multiple XAI methods comparison.
-    * Dangers of blind XAI usage in real world applications.
-
-6. Final remarks.
-
-## Resources
-
-Will be available near the conference date!
-
 
 
 ## References
