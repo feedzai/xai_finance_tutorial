@@ -13,7 +13,7 @@
 
 ## Slides
 
-Slides are available [here](https://docs.google.com/presentation/d/1B1_mDxHP5btkOB-tnk0Cp5HNVjMeCv1IOmeXH9RXTy8/edit?usp=sharing)
+Slides are available [here](https://docs.google.com/presentation/d/1B1_mDxHP5btkOB-tnk0Cp5HNVjMeCv1IOmeXH9RXTy8/edit?usp=sharing).
 
 
 ## Why this tutorial?
