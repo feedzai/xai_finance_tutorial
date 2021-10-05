@@ -1,6 +1,6 @@
 # [Explainable AI in Financial Services](https://feedzai.github.io/xai_finance_tutorial/)
 
-## Presenters
+## Contributors
 
 * Sergio Jesus - Feedzai, DCC-FCUP Universidade do Porto
 * João Bento - Feedzai
@@ -9,6 +9,11 @@
 * André Cruz - Feedzai
 * Pedro Saleiro - Feedzai
 * Pedro Bizarro - Feedzai
+
+
+## Slides
+
+Slides are available [here](https://docs.google.com/presentation/d/1B1_mDxHP5btkOB-tnk0Cp5HNVjMeCv1IOmeXH9RXTy8/edit?usp=sharing)
 
 
 ## Why this tutorial?
